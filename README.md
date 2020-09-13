@@ -8,5 +8,5 @@ To launch the app, please download all files and read Thermoelectric Optimizer-S
 Compute the thermoelectric parameters as function of the carrier concentration using empirical data.
 ![GUI](GUI.png)
 
-The thermoelectric performance can be also computed as function of temperature and carrier concentration.
+The thermoelectric performance can also be computed as function of temperature and carrier concentration.
 ![3D Figure](Figure_3D_Surface.png)
