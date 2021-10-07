@@ -5,6 +5,8 @@ With this GUI the optimize carrier concentration can be computed using a single 
 
 To launch the app, please download all files and read Thermoelectric Optimizer-SPB Model Python for more instructions.
 
+Version 2 includes the minimum thermal conductivity and the Klemens model.  
+
 ## Thermoelectric Performance
 Compute the thermoelectric parameters as function of the carrier concentration using empirical data.
 ![GUI](GUI.png)
